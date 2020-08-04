@@ -11,4 +11,5 @@ class Link(models.Model):
 
 	Link_address=models.CharField(max_length=1000,null=True,blank=True)
 	Link_name=models.CharField(max_length=1000,null=True,blank=True)	
+	Summary=models.TextField(max_length=5000,null=True,blank=True)
  
