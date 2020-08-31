@@ -7,3 +7,5 @@ Enter the keywords to get the latest short news and the summary of the news as w
 
 TECH USED:
 WEB SCRAPPING,NLP,NLTK,TOKENISATION,REGEX
+
+HOSTED ON..https://topreadnews.herokuapp.com/
